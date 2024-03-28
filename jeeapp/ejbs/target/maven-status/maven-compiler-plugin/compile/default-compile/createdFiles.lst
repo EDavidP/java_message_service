@@ -1,0 +1,7 @@
+beans\EJBPublications.class
+beans\EJBResearchers.class
+beans\MessageDrivenBean.class
+utils\StringAlignUtils.class
+beans\IEJBPublications.class
+beans\MessageDrivenBeanAdmin.class
+beans\IEJBResearchers.class

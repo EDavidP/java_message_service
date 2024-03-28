@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scholar>
+	<researcher>
+		<name>Cesar Teixeira</name>
+		<affiliation>Associate Professor-DEI-CISUC-University of Coimbra</affiliation>
+		<interest>Biomedical Signal Processing</interest>
+		<interest>Epileptic Seizure Prediction</interest>
+		<interest>Non-invasive temperature estimation</interest>
+		<interest>Anaesthesia Monitoring</interest>
+		<publication>
+			<title>Epileptic seizure prediction using relative spectral power
+				features</title>
+			<authors>Cesar Teixeira</authors>
+			<authors>Mojtaba Bandarabadi</authors>
+			<authors>Jalil Rasekhi</authors>
+			<authors>Antonio Dourado</authors>
+			<publicationDate>2015</publicationDate>
+			<newsletter>Clinical Neurophysiology</newsletter>
+			<edition>2</edition>
+			<pages>237-248</pages>
+			<totalCitation>195</totalCitation>
+		</publication>
+		<publication>
+			<title>Preprocessing effects of 22 linear univariate features on the
+				performance of seizure prediction methods</title>
+			<authors>Cesar Teixeira</authors>
+			<authors>Mojtaba Bandarabadi</authors>
+			<authors>Jalil Rasekhi</authors>
+			<authors>Antonio Dourado</authors>
+			<authors>Mohammad Reza Karami Mollaei</authors>
+			<publicationDate>2013</publicationDate>
+			<newsletter>Journal of neuroscience methods</newsletter>
+			<edition>1-2</edition>
+			<pages>9-16</pages>
+			<totalCitation>118</totalCitation>
+		</publication>
+	</researcher>
+	<researcher>
+		<name>Adriana Leal</name>
+		<affiliation>PhD Student at CISUC</affiliation>
+		<interest>Biomedical Signal Processing</interest>
+		<interest>Epileptic Seizure Prediction</interest>
+		<interest>Data Mining</interest>
+		<interest>Machine Learning</interest>
+		<interest>Information Fusion</interest>
+		<publication>
+			<title>Noise detection in phonocardiograms by exploring similarities
+				in spectral features</title>
+			<authors>Adriana Leal</authors>
+			<authors>Diogo Nunes</authors>
+			<authors>Ricardo Couceiro</authors>
+			<authors>Jorge Henriques</authors>
+			<authors>Paulo Carvalho</authors>
+			<authors>Isabel Quintal</authors>
+			<authors>Cesar Teixeira</authors>
+			<publicationDate>2018</publicationDate>
+			<newsletter>Biomedical Signal Processing and Control</newsletter>
+			<edition>44</edition>
+			<pages>154-167</pages>
+			<totalCitation>15</totalCitation>
+		</publication>
+		<publication>
+			<title>Understanding tremor in rapid upper limb movements using 3d
+				accelerometers data</title>
+			<authors>Paula Pascoal-Faria</authors>
+			<authors>Miguel Patricio</authors>
+			<authors>Adriana Leal</authors>
+			<authors>Francisco Caramelo</authors>
+			<authors>Antonio Freire</authors>
+			<authors>Cristina Januario</authors>
+			<authors>Miguel Castelo-Branco</authors>
+			<publicationDate>2014</publicationDate>
+			<newsletter>Neuroscience and Medicine</newsletter>
+			<edition>5</edition>
+			<pages>205</pages>
+			<totalCitation>11</totalCitation>
+		</publication>
+	</researcher>
+	<researcher>
+		<name>Nuno Laranjeiro</name>
+		<affiliation>University of Coimbra</affiliation>
+		<interest>Web services</interest>
+		<interest>Dependability</interest>
+		<interest>Robustness</interest>
+		<interest>Security</interest>
+		<publication>
+			<title>A survey on data quality: classifying poor data</title>
+			<authors>Nuno Laranjeiro</authors>
+			<authors>Seyma Nur Soydemir</authors>
+			<authors>Jorge Bernardino</authors>
+			<publicationDate>2015</publicationDate>
+			<newsletter>IEEE</newsletter>
+			<edition>1</edition>
+			<pages>179-188</pages>
+			<totalCitation>126</totalCitation>
+		</publication>
+		<publication>
+			<title>Effective detection of SQL/XPath injection vulnerabilities in
+				web services</title>
+			<authors>Nuno Laranjeiro</authors>
+			<authors>Nuno Antunes</authors>
+			<authors>Marco Vieira</authors>
+			<authors>Henrique Madeira</authors>
+			<publicationDate>2009</publicationDate>
+			<newsletter>IEEE</newsletter>
+			<edition>1</edition>
+			<pages>260-267</pages>
+			<totalCitation>96</totalCitation>
+		</publication>
+		<publication>
+			<title>A Black Box Tool for Robustness Testing of REST Services</title>
+			<authors>Nuno Laranjeiro</authors>
+			<authors>Joao Agnelo</authors>
+			<authors>Jorge Bernardino</authors>
+			<publicationDate>2021</publicationDate>
+			<newsletter>IEEE</newsletter>
+			<edition>9</edition>
+			<pages>24738-24754</pages>
+			<totalCitation>1</totalCitation>
+		</publication>
+	</researcher>
+	<researcher>
+		<name>Antonio Dourado</name>
+		<affiliation>Professor of Informatics Engeneering, University of
+			Coimbra</affiliation>
+		<interest>Machine Learning</interest>
+		<interest>Computational Intelligence</interest>
+		<interest>Signal Processing</interest>
+		<interest>Biomedical Engineering</interest>
+		<interest>Automatic Control</interest>
+		<publication>
+			<title>Interpretability and learning in neuro-fuzzy systems</title>
+			<authors>Antonio Dourado</authors>
+			<authors>Rui Pedro Paiva</authors>
+			<publicationDate>2004</publicationDate>
+			<newsletter>Fuzzy sets and systems</newsletter>
+			<edition>1</edition>
+			<pages>17-38</pages>
+			<totalCitation>16</totalCitation>
+		</publication>
+		<publication>
+			<title>Slow modulations of high-frequency activity (40–140 Hz)
+				discriminate preictal changes in human focal epilepsy</title>
+			<authors>Antonio Dourado</authors>
+			<authors>Catalina Alvarado-Rojas</authors>
+			<authors>Mario Valderrama</authors>
+			<authors>A Fouad-Ahmed</authors>
+			<publicationDate>2014</publicationDate>
+			<newsletter>Scientific reports</newsletter>
+			<edition>1</edition>
+			<pages>1-9</pages>
+			<totalCitation>68</totalCitation>
+		</publication>
+	</researcher>
+</scholar>
+
+

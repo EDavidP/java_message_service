@@ -1,0 +1,8 @@
+Main\UserApp.class
+jms\Queue.class
+utils\StringAlignUtils.class
+jms\TemporaryTopicReciver.class
+beans\IEJBPublications.class
+book\Publication.class
+jms\TopicReceiver.class
+book\Researcher.class

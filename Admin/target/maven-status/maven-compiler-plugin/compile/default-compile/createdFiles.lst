@@ -1,0 +1,7 @@
+jms\Queue.class
+Main\AdminApp.class
+utils\StringAlignUtils.class
+beans\IEJBPublications.class
+book\Publication.class
+jms\AdminProducer.class
+book\Researcher.class
